@@ -1,0 +1,6 @@
+public class Prueba{
+    public int var1 = 5;
+    private boolean var2 = true;
+    char var3 = 'A';
+    public float var4 = 3.1416;
+}
